@@ -1,0 +1,2 @@
+class CharacterScriptsController < ApplicationController
+end

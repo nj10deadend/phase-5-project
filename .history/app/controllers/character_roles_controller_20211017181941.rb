@@ -1,0 +1,3 @@
+class CharacterRolesController < ApplicationController
+    
+end
